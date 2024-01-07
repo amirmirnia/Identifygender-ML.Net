@@ -1,0 +1,12 @@
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\bin\Debug\net6.0\MLNameClass.deps.json
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\bin\Debug\net6.0\MLNameClass.dll
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\bin\Debug\net6.0\ref\MLNameClass.dll
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\bin\Debug\net6.0\MLNameClass.pdb
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\obj\Debug\net6.0\MLNameClass.csproj.AssemblyReference.cache
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\obj\Debug\net6.0\MLNameClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\obj\Debug\net6.0\MLNameClass.AssemblyInfoInputs.cache
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\obj\Debug\net6.0\MLNameClass.AssemblyInfo.cs
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\obj\Debug\net6.0\MLNameClass.csproj.CoreCompileInputs.cache
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\obj\Debug\net6.0\MLNameClass.dll
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\obj\Debug\net6.0\ref\MLNameClass.dll
+C:\Users\S.A.H.Mirnia\source\repos\MLName\MLNameClass\obj\Debug\net6.0\MLNameClass.pdb

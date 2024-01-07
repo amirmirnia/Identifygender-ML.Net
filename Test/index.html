@@ -1,0 +1,38 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=تشخیص, initial-scale=1.0">
+    <title>تسخیص نام</title>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/axios@1.1.2/dist/axios.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap:400,300,600" rel="stylesheet">
+
+</head>
+<body>
+    <a href="#" onclick="send()">تشخیص</a>
+    <p id="bool"></p>
+
+    <textarea name="input" id="input" cols="30" rows="10"></textarea>
+
+
+
+
+</body>
+
+<script>
+  function send(){
+
+      // Clear previous result
+      document.getElementById('bool').innerHTML = "Sending comment...";
+      
+      // Post the comment to the ASP.Net core Web API and display the result (or error)
+      axios.post('http://localhost:5000/home', { 'Name': document.getElementById('input').value } )
+          .then((response) => {
+              document.getElementById('bool').innerHTML =  response.data.IsMale;
+          }, (error) => {
+              document.getElementById('bool').innerText = error;
+          });
+  }
+</script>
+</html>
